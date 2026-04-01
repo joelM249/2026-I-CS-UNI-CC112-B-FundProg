@@ -2,8 +2,8 @@
 
 // g++ -std=c++2b main.cpp -o main
 // El main() debe ser muy pero muy pequeñito
+// .\main 
 int main() {
     std::cout << "Hello FundProg-UNI!" << std::endl;
 
-    return 0;
-}
+    return 0;}
